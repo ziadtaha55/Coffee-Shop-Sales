@@ -88,8 +88,9 @@ Relationships are established between fact and dimension tables to enable effici
 ---
 
 ## 📌 Author
-👤 **Ziad Taha**  
-📧 Contact: [Your Email]  
+👑 **Ziad Taha**
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ziad-taha-/)
+📧 Contact: [ziadhani005@gmail.com]  
 🔗 GitHub: [ziadtaha55](https://github.com/ziadtaha55)
 
 ---
